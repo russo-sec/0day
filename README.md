@@ -1,4 +1,4 @@
-# 0day — Public CVEs & PoCs (2024-2026)
+# 0day - Public CVEs & PoCs (2024-2026)
 
 Colecao de vulnerabilidades divulgadas com provas de conceito. T
 
