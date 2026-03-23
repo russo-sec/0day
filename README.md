@@ -1,6 +1,6 @@
 # 0day — Public CVEs & PoCs (2024-2026)
 
-Colecao de vulnerabilidades publicamente divulgadas com provas de conceito. Todas as informacoes aqui sao de fontes publicas e tem fins educacionais.
+Colecao de vulnerabilidades divulgadas com provas de conceito. T
 
 ---
 
@@ -16,6 +16,10 @@ Colecao de vulnerabilidades publicamente divulgadas com provas de conceito. Toda
 | CVE-2025-0282 | Ivanti Connect Secure | RCE sem autenticacao | 9.0 | 2025 |
 | CVE-2025-24813 | Apache Tomcat | RCE | 9.8 | 2025 |
 | CVE-2025-55182 | React / Next.js | RCE sem autenticacao | 10.0 | 2025 |
+| CVE-2025-1974 | Kubernetes Ingress-NGINX (IngressNightmare) | RCE sem autenticacao | 9.8 | 2025 |
+| CVE-2025-32432 | Craft CMS | RCE sem autenticacao | 10.0 | 2025 |
+| CVE-2025-53770 | Microsoft SharePoint (ToolShell) | RCE sem autenticacao | 9.8 | 2025 |
+| CVE-2025-20337 | Cisco ISE | RCE sem autenticacao | 10.0 | 2025 |
 
 ---
 
